@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sukmaputu/to-do-app/static/css/main.248be002.css",
+    "main.js": "/sukmaputu/to-do-app/static/js/main.861f7987.js",
+    "static/js/453.03d40b11.chunk.js": "/sukmaputu/to-do-app/static/js/453.03d40b11.chunk.js",
+    "index.html": "/sukmaputu/to-do-app/index.html",
+    "main.248be002.css.map": "/sukmaputu/to-do-app/static/css/main.248be002.css.map",
+    "main.861f7987.js.map": "/sukmaputu/to-do-app/static/js/main.861f7987.js.map",
+    "453.03d40b11.chunk.js.map": "/sukmaputu/to-do-app/static/js/453.03d40b11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.248be002.css",
+    "static/js/main.861f7987.js"
+  ]
+}
